@@ -87,7 +87,7 @@
         -1
       ],
       [
-        "KC_NO",
+        "KC_LCTRL",
         "KC_NO",
         "KC_NO",
         "KC_NO",
@@ -105,9 +105,9 @@
         "KC_MUTE"
       ],
       [
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
+        "KC_LCTRL",
+        "KC_LALT",
+        "KC_LGUI",
         "KC_NO",
         "KC_NO",
         "KC_NO",
@@ -124,18 +124,18 @@
       ],
       [
         "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
+        "KC_BSLASH",
+        "KC_RBRACKET",
+        "KC_LBRACKET",
         "KC_QUOTE",
         "KC_EQUAL",
         "KC_BTN3"
       ],
       [
         "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
+        "KC_SLASH",
+        "KC_DOT",
+        "KC_COMMA",
         "KC_NO",
         "KC_NO",
         -1
